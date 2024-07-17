@@ -6,12 +6,12 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {
+    "BOT_NUMBER": {94769268470
       "description": "Put the number here.",
       "required": true
     },  
 
-    "SESSION_ID": {
+    "SESSION_ID": {PRABATH-MD~AqlS3YjS#KTmqhe1JLoPigh6i15iVmwIa9y44Obby6xYKxJ76VpQ
       "description": "Put the session-id here.",
       "required": false
     },  
